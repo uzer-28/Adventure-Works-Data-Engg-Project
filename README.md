@@ -10,4 +10,4 @@ To build an end-to-end data pipeline with Medallion Architrect that extracts dat
 <i>Power BI</i> - Integrating the visualization tool(optional). <br>
 
 ### Pipeline Architecture <br>
-![Pipeline Architecture]([images/pipeline-architecture.png](https://media.licdn.com/dms/image/v2/D5622AQF-yuVMPrWBqA/feedshare-shrink_800/B56ZP6MeWUGQAk-/0/1735069395339?e=2147483647&v=beta&t=ng0tS8r5jxEqZ3nTc3Hl3gNAVCpu0_2FHNtSM585O2U))
+![Pipeline Architecture]("C:\Users\Uzer\Pictures\1735069395339.jpeg")
